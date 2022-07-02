@@ -2,7 +2,7 @@
 SPEECH TO TEXT（Google-API）の備忘録
 
 ①pythonスクリプト毎にos設定が必要。
-import os
+<p>import os<p>
 
 ②pythonスクリプト毎にos設定が必要。
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'pra.json'
