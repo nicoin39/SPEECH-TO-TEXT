@@ -1,5 +1,4 @@
-# SPEECH-TO-TEXT
-SPEECH TO TEXT（Google-API）の備忘録
+# SPEECH TO TEXT（Google-API）の備忘録
 
 <strong>①pythonスクリプト毎にos設定が必要。</strong>
 <p>import os</p>
