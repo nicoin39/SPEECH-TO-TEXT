@@ -1,13 +1,14 @@
 # SPEECH-TO-TEXT
 SPEECH TO TEXT（Google-API）の備忘録
 
-①pythonスクリプト毎にos設定が必要。
-<p>import os<p>
+<strong>①pythonスクリプト毎にos設定が必要。</strong>
+<p>import os</p>
 
-②pythonスクリプト毎にos設定が必要。
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'pra.json'
+<strong>②pythonスクリプト毎にos設定が必要。</strong>
+<p>os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'pra.json'</p>
 
-③pipインストール。3を付けること。
-!pip3 install --upgrade google-cloud-speech
+<strong>③pipインストール。3を付けること。</strong>
+<p>!pip3 install --upgrade google-cloud-speech</p>
 
-④mp3もしくはwavで音声ファイルを用意する。16000Khzで。
+<strong>④mp3もしくはwavで音声ファイルを用意する。</strong>
+<p>16000Khzで。</p>
