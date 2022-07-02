@@ -1,0 +1,2 @@
+# SPEECH-TO-TEXT
+SPEECH TO TEXT（Google-API）の備忘録
